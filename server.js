@@ -20,8 +20,8 @@ const server = http.createServer((req, res) => {
   if (req.method === "GET") {
     if (req.url === "/") {
       serveFile(res, path.join(__dirname, "public", "signup.html"), "text/html");
-    } else if (req.url === "/login") {
-      serveFile(res, path.join(__dirname, "public", "login.html"), "text/html");
+    } else if (req.url === "/index") {
+      serveFile(res, path.join(__dirname, "public", "index.html"), "text/html");
     } else if (req.url === "/style.css") {
       serveFile(res, path.join(__dirname, "public", "style.css"), "text/css");
     } else {
@@ -50,7 +50,7 @@ const server = http.createServer((req, res) => {
         }
       }
 
-      if (req.url === "/login") {
+      if (req.url === "/index") {
         const user = await User.findOne({ username, password });
         if (user) {
           res.end("Login successful, Welcome " + username);
