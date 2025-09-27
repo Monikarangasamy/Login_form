@@ -102,3 +102,27 @@ Contributions are welcome\! If you find a bug or have an idea for a new feature,
 ## 📜 License
 
 This project is licensed under the **ISC License**.
+
+------
+
+## Output Screenshots
+
+<img width="1906" height="960" alt="image" src="https://github.com/user-attachments/assets/65eb87cd-8367-4d42-bc94-3cf1b03b89ae" />
+
+<img width="1912" height="958" alt="image" src="https://github.com/user-attachments/assets/b60f5824-cc05-4097-bcf5-119c4fabf646" />
+
+<img width="1912" height="397" alt="image" src="https://github.com/user-attachments/assets/c3c57d3f-5ab5-4f83-b49a-2c9014d8b81e" />
+
+<img width="1912" height="961" alt="image" src="https://github.com/user-attachments/assets/03e1c0e0-4830-49b3-a011-5c23860bef26" />
+
+<img width="1903" height="956" alt="image" src="https://github.com/user-attachments/assets/56e152cc-dd2b-4772-b35b-93abccaca1ba" />
+
+<img width="1912" height="506" alt="image" src="https://github.com/user-attachments/assets/0c457bd3-8e4c-4e8b-bcd6-4e1831018f05" />
+
+<img width="1018" height="578" alt="image" src="https://github.com/user-attachments/assets/6ad93113-3928-4253-b3f7-8cdebe3342b4" />
+
+
+
+
+
+
